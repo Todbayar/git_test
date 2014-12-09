@@ -1,4 +1,4 @@
 Hello world.
 My name is Todbayar. Born in 1987
 I'm 27 years old.
-*
+And they need to be replaced with good parts such as stepper motor, motor driver, etc.
