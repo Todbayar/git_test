@@ -1,6 +1,0 @@
-Hello world.
-My name is Todbayar. Born in 1987
-I'm 27 years old.
-My hobby is to invent some electronic related project.
-I realized my parts which's used for building 3D printer were not proper.
-And they need to be replaced with good parts such as stepper motor, motor driver, etc.
